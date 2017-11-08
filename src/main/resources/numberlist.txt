@@ -1,0 +1,5 @@
+1 http://lips.informatik.uni-leipzig.de/browse/results/field_authors/Middendorf http://lips.informatik.uni-leipzig.de/files/marktgleichgewichte_bei_risikobewertung_durch_individuelle_abweichungsmasse_diplomarbeit.pdf http://lips.informatik.uni-leipzig.de/browse/results/field_authors/Rahm_Erhard http://lips.informatik.uni-leipzig.de/files/ba.pdf http://lips.informatik.uni-leipzig.de/browse/results/field_authors/Merkle http://lips.informatik.uni-leipzig.de/files/m_kaehler_master_thesis.pdf
+3 http://lips.informatik.uni-leipzig.de/browse/results/field_authors http://lips.informatik.uni-leipzig.de/files
+7 http://lips.informatik.uni-leipzig.de/browse/results
+8 http://lips.informatik.uni-leipzig.de/browse
+12 http://lips.informatik.uni-leipzig.de
