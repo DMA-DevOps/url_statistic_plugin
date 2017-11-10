@@ -3,12 +3,13 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
+import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Collections;
 import java.util.Comparator;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -94,6 +95,15 @@ public class StatisticGenerator {
         }
         
         return new Object[]{cleaned, numbers};
+    }
+
+    public static void main(String[] args)
+    {
+    	List<String> input = convertBufferedReaderToList(new BufferedReader(new InputStreamReader(System.in)), 0);
+    	
+    	getUrlStatisticList(input).stream()
+    		.map(s -> "\n"+ s +"\n")
+    		.forEach(System.out::println);
     }
     
     /**
